@@ -1,0 +1,16 @@
+#  config:
+#    import:
+#      -products-prod.yml
+#  profile:
+#    active:
+#      - "prod"
+
+
+products:
+  message: "Welcome to NishantSure Products related local APIs "
+  contactDetails:
+    name: "NishantSure - Developer"
+    email: "sure.nishant@gmail.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
