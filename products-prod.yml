@@ -5,7 +5,7 @@
 #      on-profile: "prod"
 
 products:
-  message: "Welcome to NishantSure Products prod github related local APIs "
+  message: "Welcome to NishantSure Products production github related local APIs "
   contactDetails:
     name: "NishantSure - Developer"
     email: "{cipher}19ff483173a7795247fcc6672f09e8940bde56c2d78d21c382e1d11b0fed31a86437b52e5c2a5f95a235ce4fc31d80dd"
